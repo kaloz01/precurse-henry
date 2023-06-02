@@ -1,2 +1,2 @@
 # precurse-henry
-este repositorio es del modulo del curso Henry
+proyecto para clonar un repositorio desde github al pc
